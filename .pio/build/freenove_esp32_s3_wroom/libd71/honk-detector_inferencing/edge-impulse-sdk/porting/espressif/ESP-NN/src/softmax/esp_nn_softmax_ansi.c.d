@@ -1,0 +1,7 @@
+.pio/build/freenove_esp32_s3_wroom/libd71/honk-detector_inferencing/edge-impulse-sdk/porting/espressif/ESP-NN/src/softmax/esp_nn_softmax_ansi.c.o: \
+ lib/honk-detector_inferencing/src/edge-impulse-sdk/porting/espressif/ESP-NN/src/softmax/esp_nn_softmax_ansi.c \
+ lib/honk-detector_inferencing/src/edge-impulse-sdk/classifier/ei_classifier_config.h \
+ /Users/tomerkarpovsky/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/qio_opi/include/sdkconfig.h \
+ lib/honk-detector_inferencing/src/tflite-model/trained_model_ops_define.h \
+ lib/honk-detector_inferencing/src/edge-impulse-sdk/porting/espressif/ESP-NN/src/softmax/softmax_common.h \
+ lib/honk-detector_inferencing/src/edge-impulse-sdk/porting/espressif/ESP-NN/src/common/common_functions.h
